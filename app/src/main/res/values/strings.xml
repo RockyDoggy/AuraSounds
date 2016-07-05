@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aura Sounds</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="playStopButton">Play</string>
+    <string name="playStop">Stop</string>
+    <string name="soundNameRain">Rain</string>
+    <string name="soundNameSea">Sea</string>
+    <string name="soundNameBirds">Birds</string>
+</resources>
