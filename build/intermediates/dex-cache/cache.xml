@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_dc5cfa265c13df0a38c2acf110ae052f2c072db6/classes.dex" />
+    </item>
+    <item
+        jar="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_ef96a4457f6504bf9e87fcf5077a837fd55de0c9/classes.dex" />
+    </item>
+    <item
+        jar="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d157a1a8d0185aa9e0371c19a719bcb98eccac00">
+        <dex dex="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9956bb7d3f708770e029078d2c4e85cc9d65952c/classes.dex" />
+    </item>
+    <item
+        jar="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="46b22c66820dc80f092ead6b0f01fbc04b98ae93">
+        <dex dex="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6c4479f42e47fd50906cd877667b0c5a8199ac99/classes.dex" />
+    </item>
+    <item
+        jar="/home/brodyga/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_81098ac4e00bb09ba95137e606a48f240e649471/classes.dex" />
+    </item>
+    <item
+        jar="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_a1855f2c76a49dc5d9f735aa7bb7e6e915ccbbc5/classes.dex" />
+    </item>
+    <item
+        jar="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_97b28a5783363c50a210051aa280e152226f1988/classes.dex" />
+    </item>
+    <item
+        jar="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/brodyga/AndroidStudioProjects/AuraSounds/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_dd1413a31ebcd25bd33ea4e1e98d9483ca770696/classes.dex" />
+    </item>
+
+</items>
